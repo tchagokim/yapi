@@ -14,3 +14,4 @@ TODO:
 - Relacionamentos
 - Outras colunas , so tem str e int
 - Atribuir coluna sem precisa do dicionario
+- Peewee async + rotinas open/close
