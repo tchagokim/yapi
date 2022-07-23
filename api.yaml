@@ -1,0 +1,10 @@
+auth: false
+tables:
+  User:
+    name : str
+    age : int
+  Post:
+    user : int
+    message : str
+  
+     
