@@ -1,9 +1,12 @@
 # yapi
 CRUD simples com um arquivo YAML apenas
 
-ta so começando
+Missão:
+  Não editar arquivo python, somente o YAML
+  Servir para propósitos comuns de API
+  Tomar água de coco na praia em vez de codar API desnecessariamente
 
-todo: 
+TODO: 
 - Autorizacao
 - Relacionamentos
 - Outras colunas , so tem str e int
